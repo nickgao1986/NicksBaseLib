@@ -28,9 +28,6 @@ allprojects {
             url 'http://maven.aliyun.com/nexus/content/repositories/releases/'
         }
         maven {
-            url "http://nexus.babytree-inc.com:8081/nexus/content/repositories/beijing-maven-release"
-        }
-        maven {
             url 'https://maven.google.com'
         }
     }
