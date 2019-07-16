@@ -1,6 +1,6 @@
 package com.pedometer;
 
-interface OnStepCounterListener {
+public interface OnStepCounterListener {
 
     /**
      * 用于显示步数
