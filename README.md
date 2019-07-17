@@ -12,8 +12,33 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.nickgao1986:NicksBaseLib:3.0'
+	        implementation 'com.github.nickgao1986:NicksBaseLib:4.0'
 	}
 
-###### 运行效果图：
-![enter image description here](https://github.com/nickgao1986/RedDots/blob/master/11.png)
+
+## 安卓日期控件
+DatePickerDialogUtil
+
+
+## 安卓提醒红点
+
+BadgeTextView
+
+
+## 安卓下拉刷新
+
+PullToRefreshBase
+
+
+## 安卓图片剪切功能
+ClipLayout
+ClipView
+
+
+## 计步器利用传感器计步功能
+
+TodayStepCounter
+
+
+## 安卓列表滚动服务
+ScrollableHelper
