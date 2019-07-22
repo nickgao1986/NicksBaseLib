@@ -15,10 +15,7 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Locale;
 
-/**
- * 日期专用控件
- * Created by sbb on 2015/6/8.
- */
+
 public class DatePickerDialogUtil {
 
     private static final int YEAR_MIN = 1970;  // 默认最小年限

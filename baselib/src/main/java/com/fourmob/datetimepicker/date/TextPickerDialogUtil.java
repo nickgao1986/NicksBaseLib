@@ -15,10 +15,7 @@ import com.util.ScreenUtil;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 自定义文字选择控件
- * Created by sbb on 2015/6/8.
- */
+
 public class TextPickerDialogUtil {
 
     private Context context;
