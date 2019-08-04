@@ -1,4 +1,4 @@
-package com.imooc.sport.qiniu;
+package com.qiuniu;
 
 import com.qiniu.android.http.Client;
 

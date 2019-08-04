@@ -1,4 +1,4 @@
-package com.imooc.sport.qiniu;
+package com.qiuniu;
 
 /**
  * URL安全的Base64编码和解码

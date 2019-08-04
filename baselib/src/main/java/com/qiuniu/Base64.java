@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.imooc.sport.qiniu;
+package com.qiuniu;
 
 import java.io.UnsupportedEncodingException;
 

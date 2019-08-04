@@ -1,4 +1,4 @@
-package com.imooc.sport.qiniu;
+package com.qiuniu;
 
 import java.nio.charset.Charset;
 
